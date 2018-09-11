@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 77c51f5dbc6b74648815ef353f302cad
+timeCreated: 1522935535
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: nurbsToPo0
+    100004: nurbsToPo3
+    100006: nurbsToPol
+    100008: pCube266
+    100010: polyToSub0
+    100012: polyToSub1
+    100014: polyToSub2
+    100016: polyToSub3
+    100018: polyToSub9
+    100020: polyToSubd
+    100022: pTorus129
+    100024: pTorus130
+    100026: pTorus131
+    100028: pTorus132
+    100030: pTorus133
+    100032: pTorus134
+    100034: pTorus135
+    100036: pTorus136
+    400000: //RootNode
+    400002: nurbsToPo0
+    400004: nurbsToPo3
+    400006: nurbsToPol
+    400008: pCube266
+    400010: polyToSub0
+    400012: polyToSub1
+    400014: polyToSub2
+    400016: polyToSub3
+    400018: polyToSub9
+    400020: polyToSubd
+    400022: pTorus129
+    400024: pTorus130
+    400026: pTorus131
+    400028: pTorus132
+    400030: pTorus133
+    400032: pTorus134
+    400034: pTorus135
+    400036: pTorus136
+    2300000: nurbsToPo0
+    2300002: nurbsToPo3
+    2300004: nurbsToPol
+    2300006: pCube266
+    2300008: polyToSub0
+    2300010: polyToSub1
+    2300012: polyToSub2
+    2300014: polyToSub3
+    2300016: polyToSub9
+    2300018: polyToSubd
+    2300020: pTorus129
+    2300022: pTorus130
+    2300024: pTorus131
+    2300026: pTorus132
+    2300028: pTorus133
+    2300030: pTorus134
+    2300032: pTorus135
+    2300034: pTorus136
+    3300000: nurbsToPo0
+    3300002: nurbsToPo3
+    3300004: nurbsToPol
+    3300006: pCube266
+    3300008: polyToSub0
+    3300010: polyToSub1
+    3300012: polyToSub2
+    3300014: polyToSub3
+    3300016: polyToSub9
+    3300018: polyToSubd
+    3300020: pTorus129
+    3300022: pTorus130
+    3300024: pTorus131
+    3300026: pTorus132
+    3300028: pTorus133
+    3300030: pTorus134
+    3300032: pTorus135
+    3300034: pTorus136
+    4300000: pTorus129
+    4300002: nurbsToPol
+    4300004: polyToSub9
+    4300006: nurbsToPo3
+    4300008: nurbsToPo0
+    4300010: pCube266
+    4300012: polyToSub0
+    4300014: polyToSub1
+    4300016: polyToSub2
+    4300018: polyToSub3
+    4300020: polyToSubd
+    4300022: pTorus130
+    4300024: pTorus131
+    4300026: pTorus132
+    4300028: pTorus133
+    4300030: pTorus134
+    4300032: pTorus135
+    4300034: pTorus136
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
